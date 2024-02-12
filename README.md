@@ -1,10 +1,10 @@
 # Codecademy Piano Keys Project
 
 ## Table des matières
-- [Objectifs du projet](#Objectifs)
-- [Réalisé avec](#Réalisé)
-- [Comment utiliser](#utiliser)
-- [Défis et Crédits](#Défis)
+- [🎯Objectifs du projet](#Objectifs)
+- [🛠 Réalisé avec](#Réalisé)
+- [🔧 Comment utiliser](#utiliser)
+- [🏆 Défis et Crédits](#Défis)
 
 ## Objectifs du projet
 
@@ -21,7 +21,7 @@ En tant que développeur web, vous avez été engagé par une entreprise d'éduc
    ```
    git clone https://github.com/Hermacle/Exercice-10-Piano-Keys-Hermacle.git
    ```
-2. Ouvrir le projet et acceder au fichier ```/index.html```.
+2. Ouvrir le projet et accéder au fichier `/index.html`.
 
 ## Défis et Crédits
 Ce projet était un exercice pratique du programme Full Stack sur Codeacademy.
