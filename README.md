@@ -1,5 +1,7 @@
 # Codecademy Piano Keys Project
 
+<img src="assets/image/Piano-Keys-Hermacle Public.png" />
+
 ## Table des matières
 - [🎯Objectifs du projet](#Objectifs)
 - [🛠 Réalisé avec](#Réalisé)
